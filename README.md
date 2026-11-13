@@ -14,7 +14,7 @@ Second level multivariate ('silhouette algebra') fMRI results can be found in 'f
 
 ## Training data and code (added in this fork)
 
-Behavioural data from the two-day training ("Tetris") sessions, plus the task and analysis code, were recovered from the institute's servers by Philipp Schwartenbeck and shared with Sylvia in 2026.
+Behavioural data from the two-day training ("Tetris") sessions, plus the task and analysis code, were recovered from institute servers by Philipp Schwartenbeck in 2024 and shared on request; they are not part of the upstream repository except where noted.
 
 - `MEG_Behav/Training_MEG/s03–s23/`: training data for each subject (already in the upstream repo). The `Decompose_Tetris_*` files are the relevant ones. `Missing_Data.txt` lists the missing sessions.
 - `MEG_Behav/Training_MEG/pilot/`: pilot subjects s2 and s99 (s99 looks like test runs).
